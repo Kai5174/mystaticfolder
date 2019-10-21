@@ -1,0 +1,2 @@
+# mystaticfolder
+Some Static Collection
